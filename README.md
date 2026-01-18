@@ -3,19 +3,19 @@ I'm a first year student in Universiti Teknologi Malaysia (UTM) enrolling in Bac
 
 
 ## 🎓 Education:
-Primary School: Sekolah Kebangsaan Taman Mutiara Rini 
-Secondary School: Sekolah Menengan Sains Johor 
-Foundation: Foundation in Science at Universiti Teknologi MARA 
-Degree: Bachelor's Degree in Computer Science (Computer Networks and Security) at Universiti Teknologi Malaysia 
+Primary School: Sekolah Kebangsaan Taman Mutiara Rini | 
+Secondary School: Sekolah Menengan Sains Johor | 
+Foundation: Foundation in Science at Universiti Teknologi MARA | 
+Degree: Bachelor's Degree in Computer Science (Computer Networks and Security) at Universiti Teknologi Malaysia | 
 
 ## 🛠️ Skills:
-Leadership
-Teamwork
-Adaptability
-Problem-solving
-Work-ethic
-Graphics Editing: Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, Canva
-Data Management: Microsoft Excel, Google Sheets
+Leadership | 
+Teamwork | 
+Adaptability | 
+Problem-solving | 
+Work-ethic | 
+Graphics Editing: Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, Canva | 
+Data Management: Microsoft Excel, Google Sheets | 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Khairulnaim Zaquan](https://www.facebook.com/khairulnaim.zaquan/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kzaquan._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Khairulnaim Zaquan](https://www.linkedin.com/in/khairulnaim-zaquan-0a087b394/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khairulnaimzaquan@graduate.utm.my) 

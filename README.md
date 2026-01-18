@@ -16,6 +16,7 @@ Problem-solving |
 Work-ethic | 
 Graphics Editing: Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects, Canva | 
 Data Management: Microsoft Excel, Google Sheets | 
+Programming: C++, Java, Python | 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Khairulnaim Zaquan](https://www.facebook.com/khairulnaim.zaquan/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kzaquan._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Khairulnaim Zaquan](https://www.linkedin.com/in/khairulnaim-zaquan-0a087b394/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khairulnaimzaquan@graduate.utm.my) 

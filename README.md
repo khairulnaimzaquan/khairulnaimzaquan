@@ -1,5 +1,5 @@
 # 👨🏻‍💼 My e-Portfolio:
-khairulnaimzaquan.github.io
+https://khairulnaimzaquan.github.io/
 
 
 # 💫 About Me:

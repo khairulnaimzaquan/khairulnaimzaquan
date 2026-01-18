@@ -8,7 +8,7 @@ I'm a first year student in Universiti Teknologi Malaysia (UTM) enrolling in Bac
 
 ## 🎓 Education:
 Primary School: Sekolah Kebangsaan Taman Mutiara Rini | 
-Secondary School: Sekolah Menengan Sains Johor | 
+Secondary School: Sekolah Menengah Sains Johor | 
 Foundation: Foundation in Science at Universiti Teknologi MARA | 
 Degree: Bachelor's Degree in Computer Science (Computer Networks and Security) at Universiti Teknologi Malaysia | 
 
